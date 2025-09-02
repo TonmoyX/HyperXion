@@ -1,4 +1,5 @@
 
+
 html{
     scroll-behavior: smooth;
 }
@@ -53,7 +54,6 @@ body{
     }
     .navbar>ul>li{
          margin-left: 50px;
-
         font-size: 50px;
         font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
     }
@@ -66,10 +66,7 @@ body{
        
     }
     .navbar>ul>li.dd1{position: relative;}
-    .navbar>ul>li.dd1:hover{
-        background-color: #000000;
-        border-radius: 2px;
-    }
+  
     .navbar>ul>li.dd1 ul{
      font-size: 50px;
         list-style-type: none;
@@ -77,10 +74,7 @@ body{
         background-color: rgb(0, 0, 0);
         border-radius: 3px;
     }
-    .navbar>ul>li.dd1 ul li a:hover{
-        background-color: #000000;
-      
-    }
+    
     .navbar>ul>li.dd1 ul li a{
         padding: 15px;
         display: inline-block;
@@ -92,15 +86,8 @@ body{
     
     .navbar>ul>li.dd2{position: relative;
     margin-top: -50px;}
-    .navbar>ul>li.dd2:hover{
-        background-color: #000000;
-        border-radius: 2px;
-    }
-    .navbar>ul>li.dd2:hover ul{
-        transition:2s;
-        display: block;
-         background-color:rgba(0, 0, 0, 0.89);
-    }
+
+  
     .navbar>ul>li.dd2 ul{
        width: auto;
         position: absolute;
@@ -109,10 +96,7 @@ body{
         background-color: rgb(0, 0, 0);
         border-radius: 3px;
     }
-    .navbar>ul>li.dd2 ul li a:hover{
-        background-color: #000000;
-      
-    }
+  
     .navbar>ul>li.dd2 ul li a{
         padding: 10px;
         display: inline-block;
@@ -124,15 +108,8 @@ body{
     }
     .navbar>ul>li.dd3{position: relative;
     margin-top: -50px;}
-    .navbar>ul>li.dd3:hover{
-          background-color: #000000;
-        border-radius: 2px;
-    }
-    .navbar>ul>li.dd3:hover ul{
-        transition:2s;
-        display: block;
-         background-color:rgb(0, 0, 0);
-    }
+   
+  
     .navbar>ul>li.dd3 ul{
         position: absolute;
         list-style-type: none;
@@ -141,10 +118,7 @@ body{
         background-color: rgb(0, 0, 0);
         border-radius: 3px;
     }
-    .navbar>ul>li.dd3 ul li a:hover{
-        background-color: #000000;
-      
-    }
+   
     .navbar>ul>li.dd3 ul li a{
         padding: 10px;
         display: inline-block;
@@ -164,17 +138,8 @@ body{
       
     }
     
-    .cnt:hover{
-       
-    background-color: #000000;
-    border-radius: 2px;
-    
-    }
-    
-    .dd11:hover{
-        background-color: #000000;
-        border-radius: 2px;
-    }
+ 
+   
 
 .uh{
     margin-top: 45px;
