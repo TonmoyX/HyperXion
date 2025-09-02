@@ -5,6 +5,7 @@ html{
 .menu-toggle {
   display: none;
 }
+
 @media only screen and (max-width:1199px){
 body{
   background-color: #000000;
@@ -172,14 +173,6 @@ body{
         border-radius: 2px;
     }
 
-
-
-
-
-
-
-
-
 .uh{
     margin-top: 45px;
     text-align: center;
@@ -292,7 +285,7 @@ body{
     
     .footer{
         background-color: #111;
-        margin-top: 500px;
+        margin-top: 600px;
     }
     .footer-content {
       display: flex;
