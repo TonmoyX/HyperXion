@@ -2,6 +2,9 @@
 html{
     scroll-behavior: smooth;
 }
+.menu-btn{
+    display: none;
+}
 .menu-toggle {
   display: none;
 }
