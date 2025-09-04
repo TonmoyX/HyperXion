@@ -251,16 +251,19 @@ body{
         border-radius: 5px; 
     }
     
-    .footer{
-        background-color: #111;
-        margin-top: 600px;
+  .footer {
+      background-color: #111;
+      color: #ddd;
+      padding: 30px 20px;
+      font-family: 'Segoe UI', sans-serif;
     }
+    
     .footer-content {
       display: flex;
       flex-wrap: wrap;
       justify-content: space-around;
       gap: 20px;
-
+      margin-bottom: 15px;
     }
     
     .footer-section {
