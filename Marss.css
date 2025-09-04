@@ -137,11 +137,7 @@ html{
         text-align: center;
       
     }
-
-
-
-
-     .basic-galaxy{
+  .basic-galaxy{
         background-image: url(mars/mars.webp);  
         background-size:cover;
       margin-top: 80px;
@@ -309,13 +305,13 @@ html{
         display: block;
     }
     
-    .up{ 
-        left:98%; 
-        top:90%; 
-        width: 20px;
-        animation-name:appear;
-        animation-timeline:scroll(y);
-    }
+.up{ 
+    left:93.5%; 
+    top:92%; 
+    width: 40px;
+    animation-name:appear;
+    animation-timeline:scroll(y);
+}
     @keyframes appear {
         0%{
             opacity: 0;
