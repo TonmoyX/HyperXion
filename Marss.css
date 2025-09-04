@@ -137,7 +137,11 @@ html{
         text-align: center;
       
     }
-  .basic-galaxy{
+
+
+
+
+     .basic-galaxy{
         background-image: url(mars/mars.webp);  
         background-size:cover;
       margin-top: 80px;
@@ -209,7 +213,7 @@ html{
         margin-top: -6%;
     }
     .mflink{
-        margin-left: 6.5%;
+        margin-left: 3.5%;
     }
     .mf{
      text-decoration: none;
@@ -221,6 +225,7 @@ html{
         margin-top: -6%;
     }
     .linky{
+        margin-top: -20px;
         text-decoration: none;
         color:white;
     }
