@@ -137,22 +137,6 @@ html{
       
     }
     
- 
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  .earth{
         background-image: url(Earth/Earth.jpg);
          background-size:cover; 
@@ -372,10 +356,7 @@ html{
         font-size: 15px;
         margin-top: -1.5%;
     }
-    
-    
-    
-    
+     
     .footer {
       background-color: #111;
       color: #ddd;
@@ -423,41 +404,13 @@ html{
       font-size: 14px;
       color: #aaa;
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    .up{ 
-        left:98%; 
-        top:90%; 
-        width: 20px;
-        animation-name:appear;
-        animation-timeline:scroll(y);
-    }
+.up{ 
+    left:93.5%; 
+    top:92%; 
+    width: 40px;
+    animation-name:appear;
+    animation-timeline:scroll(y);
+}
     @keyframes appear {
         0%{
             opacity: 0;
