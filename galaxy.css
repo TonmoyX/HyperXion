@@ -212,13 +212,6 @@ body{
         margin-top: 0%;
     }
 
- .up{ 
-        left:98%; 
-        top:90%; 
-        width: 20px;
-        animation-name:appear;
-        animation-timeline:scroll(y);
-    }
   .up{ 
        left:93.5%; 
     top:92%; 
