@@ -545,7 +545,7 @@ body{
     }
     .orbit{
         margin-left: 0.8%;
-        margin-top: 0.2%;
+        margin-top: 10px;
         width: 400px;
         height: 300px;
         border-radius: 5px;
