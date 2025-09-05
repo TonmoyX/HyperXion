@@ -223,6 +223,12 @@ body{
         display: none;
        
     }
+     .ccpicagain{
+        margin-top: 30px;
+    border-radius: 20px;  
+    margin-left: 100px; 
+    margin-bottom: 30px;
+    }
     .ccmarge{
         padding-right: 5%;
     }
@@ -746,6 +752,11 @@ body{
         border-radius: 15px;
         margin-bottom: 10px;
         margin-top: -15%;
+    }
+      .ccpicagain{
+    
+        display: none;
+       
     }
     .ccmarge{
         padding-right: 5%;
@@ -1518,6 +1529,11 @@ body{
     margin-bottom: 10px;
     margin-top: -15%;
 }
+  .ccpicagain{
+    
+        display: none;
+       
+    }
 .ccmarge{
     padding-right: 9.5%;
 }
