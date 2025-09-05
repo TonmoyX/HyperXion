@@ -141,7 +141,7 @@ body{
 }
  .er{
         color: white;
-       margin-left: 550px;
+       margin-left: 520px;
         font-size: 35px;
         padding-top: 40px;
 
@@ -288,7 +288,7 @@ body{
  
     .footer {
       background-color: #111;
-      margin-top: 5%;
+      margin-top: 15%;
       color: #ddd;
       padding: 30px 20px;
       font-family: 'Segoe UI', sans-serif;
@@ -1040,6 +1040,7 @@ border-radius: 2px;
 }
 
 }
+
 
 
 
