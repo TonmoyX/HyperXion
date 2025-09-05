@@ -343,8 +343,9 @@ html{
     
     }   
  
-    .footer {
+  .footer {
       background-color: #111;
+      margin-top: 5%;
       color: #ddd;
       padding: 30px 20px;
       font-family: 'Segoe UI', sans-serif;
@@ -390,7 +391,6 @@ html{
       font-size: 14px;
       color: #aaa;
     }
-
 }
 
 @media only screen and (min-width:1200px) and (max-width:1500px){   
