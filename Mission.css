@@ -149,7 +149,7 @@ body{
     .er1{
         color: rgb(255, 255, 255);
        margin-left: 450px;
-        font-size: 12px;
+        font-size: 8px;
         margin-top: -20px;
         line-height: 30px;
         padding-bottom: 80px;
@@ -1041,3 +1041,4 @@ border-radius: 2px;
 }
 
 }
+
