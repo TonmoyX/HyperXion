@@ -258,15 +258,6 @@ body{
       padding: 30px 20px;
       font-family: 'Segoe UI', sans-serif;
     }
-    
-   .footer {
-      background-color: #111;
-      margin-top: 5%;
-      color: #ddd;
-      padding: 30px 20px;
-      font-family: 'Segoe UI', sans-serif;
-    }
-    
     .footer-content {
       display: flex;
       flex-wrap: wrap;
